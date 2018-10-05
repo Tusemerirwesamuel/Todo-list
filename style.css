@@ -1,0 +1,12 @@
+body {
+    background-color: blueviolet
+}
+h1 {
+    color:red
+    text-align:center;
+}
+button {
+        -webkit-transition-duration: 0.4s safari*
+            transition-duration:0.4;
+}
+
